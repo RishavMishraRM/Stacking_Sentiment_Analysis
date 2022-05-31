@@ -4,7 +4,7 @@ Sentiment analysis refers to analyzing an opinion or feelings about something us
 
 Text preprocessing steps include a few essential tasks to further clean the available text data. It includes tasks like:-
 <br> <br> <br>
-Stop-Word Removal : In English words like a, an, the, as, in, on, etc. are considered as stop-words so according to our requirements we can remove them to reduce vocabulary size as these words don't have some specific meaning
+1. Stop-Word Removal : In English words like a, an, the, as, in, on, etc. are considered as stop-words so according to our requirements we can remove them to reduce vocabulary size as these words don't have some specific meaning
 
 Lower Casing : Convert all words into the lower case because the upper or lower case may not make a difference for the problem. And we are reducing vocabulary size by doing so.
 
