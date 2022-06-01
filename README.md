@@ -10,4 +10,4 @@ Text preprocessing steps include a few essential tasks to further clean the avai
 
 3. Stemming : Stemming refers to the process of removing suffixes and reducing a word to some base form such that all different variants of that word can be represented by the same form (e.g., “walk” and “walking” are both reduced to “walk”). <br>
 
-Tokenization : NLP software typically analyzes text by breaking it up into words (tokens) and sentences.
+Tokenization : NLP software typically analyzes text by breaking it up into words (tokens) and sentences. <br>
