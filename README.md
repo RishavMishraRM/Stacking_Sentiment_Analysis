@@ -12,4 +12,5 @@ Text preprocessing steps include a few essential tasks to further clean the avai
 
 4. Tokenization : NLP software typically analyzes text by breaking it up into words (tokens) and sentences. <br>
 ## Algo's
-Base SVM model with TF-IDF
+### Base SVM model with TF-IDF
+The intuition behind TF-IDF is as follows :
