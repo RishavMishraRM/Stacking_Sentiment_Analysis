@@ -13,5 +13,5 @@ Text preprocessing steps include a few essential tasks to further clean the avai
 4. Tokenization : NLP software typically analyzes text by breaking it up into words (tokens) and sentences. <br>
 ## Algo's
 ### Base SVM model with TF-IDF
-The intuition behind TF-IDF is as follows :
+The intuition behind TF-IDF is as follows : <br>
 If a word w appears many times in a sentence S1 but does not occur much in the rest of the Sentences Sn in the corpus, then the word w must be of great importance to the Sentence S1. The importance of w should increase in proportion to its frequency in S1 (how many times that word occurs in sentence S1), but at the same time, its importance should decrease in proportion to the word’s frequency in other Sentence Sn in the corpus.
