@@ -19,3 +19,5 @@ If a word w appears many times in a sentence S1 but does not occur much in the r
 TF (term frequency) measures how often a term or word occurs in a given document.  <br>
 IDF (inverse document frequency) measures the importance of the term across a corpus. In computing TF, all terms are given equal importance (weightage). However, it’s a well-known fact that stop words like is, are, am, etc., are not important, even though they occur frequently. To account for such cases, IDF weighs down the terms that are very common across a corpus and weighs up the rare terms. IDF of a term t is calculated as follows: <br>
 <br>
+Mathematical Expression of TF and IDF :
+
