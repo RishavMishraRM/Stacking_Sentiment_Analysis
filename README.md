@@ -23,4 +23,13 @@ Mathematical Expression of TF and IDF : <br>
 
 
 
+Train accuracy score:  0.9789716926632005
+Test accuracy score:  0.8863478863478863
+
+Train ROC-AUC score:  0.9969059080962801
+Test ROC-AUC score:  0.9291638407797843
+
+Are under Precision-Recall curve: 0.6194895591647333
+Area under ROC-AUC: 0.8049812797120168
+
 After optimizing the hyperparameters with TF-IDF
