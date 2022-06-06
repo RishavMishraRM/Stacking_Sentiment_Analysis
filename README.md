@@ -21,3 +21,6 @@ IDF (inverse document frequency) measures the importance of the term across a co
 <br>
 Mathematical Expression of TF and IDF : <br>
 
+
+
+After optimizing the hyperparameters with TF-IDF
