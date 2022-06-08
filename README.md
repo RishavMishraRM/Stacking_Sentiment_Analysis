@@ -21,7 +21,7 @@ IDF (inverse document frequency) measures the importance of the term across a co
 <br>
 Mathematical Expression of TF and IDF : <br>
 
-<img src="">
+<img src="https://github.com/RishavMishraRM/Stacking_Sentiment_Analysis/blob/main/Image/tf_idf.jpg">
 
 Train accuracy score:  0.9789716926632005
 Test accuracy score:  0.8863478863478863
