@@ -43,3 +43,5 @@ Test ROC-AUC score:  0.9287402444777646
 
 Are under Precision-Recall curve: 0.6824034334763949
 Area under ROC-AUC: 0.8075530526607344
+
+Using Multinomial Naive Bayes
