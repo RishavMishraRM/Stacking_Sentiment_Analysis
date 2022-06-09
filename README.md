@@ -33,7 +33,7 @@ Are under Precision-Recall curve: 0.6194895591647333
 Area under ROC-AUC: 0.8049812797120168
  <br>
 After optimizing the hyperparameters with TF-IDF
-
+ <br>
 
 Train accuracy score:  0.996418255343732
 Test accuracy score:  0.8974358974358975
