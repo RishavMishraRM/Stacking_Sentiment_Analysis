@@ -43,9 +43,9 @@ Test ROC-AUC score:  0.9287402444777646
 
 Are under Precision-Recall curve: 0.6824034334763949
 Area under ROC-AUC: 0.8075530526607344
-<br>
+<br><br><br>
 Using Multinomial Naive Bayes
-<br>
+<br><br><br>
 Train accuracy score:  0.8500288850375506
 Test accuracy score:  0.834026334026334
 
