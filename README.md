@@ -63,3 +63,6 @@ Test accuracy score:  0.6947331947331947
 
 Train ROC-AUC score:  0.9043034281546316
 Test ROC-AUC score:  0.688586755810495
+
+Are under Precision-Recall curve: 0.4644376899696049
+Area under ROC-AUC: 0.5471372315951626
