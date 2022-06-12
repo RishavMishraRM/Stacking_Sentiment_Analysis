@@ -73,3 +73,6 @@ Using AdaBoost
 
 Train accuracy score:  0.8599653379549393
 Test accuracy score:  0.8613998613998614
+
+Train ROC-AUC score:  0.8689482940270687
+Test ROC-AUC score:  0.8373803091947158
