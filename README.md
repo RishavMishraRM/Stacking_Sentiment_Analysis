@@ -61,3 +61,5 @@ Using Gaussian Naive Bayes
 Train accuracy score:  0.8484113229347198
 Test accuracy score:  0.6947331947331947
 
+Train ROC-AUC score:  0.9043034281546316
+Test ROC-AUC score:  0.688586755810495
