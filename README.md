@@ -59,3 +59,5 @@ Area under ROC-AUC: 0.7374839454006489
 Using Gaussian Naive Bayes
 <br><br><br>
 Train accuracy score:  0.8484113229347198
+Test accuracy score:  0.6947331947331947
+
