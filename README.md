@@ -83,3 +83,5 @@ Area under ROC-AUC: 0.6298876361965743
 <br><br><br>
 Bagging with MultinomialNB
 <br><br><br>
+Train accuracy score:  0.8461005199306759
+Test accuracy score:  0.8322938322938322
