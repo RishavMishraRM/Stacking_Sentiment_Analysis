@@ -30,7 +30,7 @@ Train ROC-AUC score:  0.9969059080962801
 Test ROC-AUC score:  0.9291638407797843
 
 Are under Precision-Recall curve: 0.6194895591647333
-Area under ROC-AUC: 0.8049812797120168
+Area under ROC-AUC: 0.8049812797120168 <br>
 <br><br><br>
 After optimizing the hyperparameters with TF-IDF
 <br><br><br>
