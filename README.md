@@ -85,3 +85,6 @@ Bagging with MultinomialNB
 <br><br><br>
 Train accuracy score:  0.8461005199306759
 Test accuracy score:  0.8322938322938322
+
+Train ROC-AUC score:  0.9527145635788963
+Test ROC-AUC score:  0.899816416115316
