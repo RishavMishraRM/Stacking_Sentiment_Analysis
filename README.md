@@ -95,3 +95,4 @@ Area under ROC-AUC: 0.73419003907474
 <br><br><br>
 Using Random Forest
 <br><br><br>
+Train accuracy score:  0.996418255343732
