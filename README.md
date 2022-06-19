@@ -97,3 +97,6 @@ Using Random Forest
 <br><br><br>
 Train accuracy score:  0.996418255343732
 Test accuracy score:  0.8801108801108801
+
+Train ROC-AUC score:  0.9982442661479861
+Test ROC-AUC score:  0.8956867344777572
