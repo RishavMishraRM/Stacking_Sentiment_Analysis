@@ -29,7 +29,7 @@ Test accuracy score:  0.8863478863478863
 Train ROC-AUC score:  0.9969059080962801
 Test ROC-AUC score:  0.9291638407797843
 
-Are under Precision-Recall curve: 0.6194895591647333
+Area under Precision-Recall curve: 0.6194895591647333
 Area under ROC-AUC: 0.8049812797120168 <br>
 <br><br><br>
 After optimizing the hyperparameters with TF-IDF
@@ -41,7 +41,7 @@ Test accuracy score:  0.8974358974358975
 Train ROC-AUC score:  0.9987310154793744
 Test ROC-AUC score:  0.9287402444777646
 
-Are under Precision-Recall curve: 0.6824034334763949
+Area under Precision-Recall curve: 0.6824034334763949
 Area under ROC-AUC: 0.8075530526607344
 <br><br><br>
 Using Multinomial Naive Bayes
@@ -52,7 +52,7 @@ Test accuracy score:  0.834026334026334
 Train ROC-AUC score:  0.9561105438041981
 Test ROC-AUC score:  0.9013005324009118
 
-Are under Precision-Recall curve: 0.2709284627092846
+Area under Precision-Recall curve: 0.2709284627092846
 Area under ROC-AUC: 0.7374839454006489
 
 <br><br><br>
@@ -64,7 +64,7 @@ Test accuracy score:  0.6947331947331947
 Train ROC-AUC score:  0.9043034281546316
 Test ROC-AUC score:  0.688586755810495
 
-Are under Precision-Recall curve: 0.4644376899696049
+Area under Precision-Recall curve: 0.4644376899696049
 Area under ROC-AUC: 0.5471372315951626
 
 <br><br><br>
