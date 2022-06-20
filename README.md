@@ -103,3 +103,5 @@ Test ROC-AUC score:  0.8956867344777572
 
 Area under Precision-Recall curve: 0.6526104417670683
 Area under ROC-AUC: 0.7441899264879837
+
+Using LSTM
