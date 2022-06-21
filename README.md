@@ -113,3 +113,5 @@ Test accuracy score:
 Train ROC-AUC score:
 Test ROC-AUC score:  
 
+Area under Precision-Recall curve: 
+Area under ROC-AUC: 
