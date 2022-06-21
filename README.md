@@ -108,3 +108,5 @@ Area under ROC-AUC: 0.7441899264879837
 Using LSTM
 <br><br><br>
 Train accuracy score:  
+Test accuracy score:
+
