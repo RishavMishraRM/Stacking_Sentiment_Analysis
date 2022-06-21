@@ -110,3 +110,6 @@ Using LSTM
 Train accuracy score:  
 Test accuracy score:
 
+Train ROC-AUC score:
+Test ROC-AUC score:  
+
